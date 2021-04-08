@@ -1,0 +1,711 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Read Only by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
+					<h4 id="logo"><a href="#one">Documentation de l'Outil d'Ordonnancement</a></h4>
+					
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one">Introduction au site</a></li>
+						<li><a href="#three">Modification/Suppression d'un élément</a></li>
+						<li><a href="#five">Ajout/Suppression d'un élément</a></li>
+						<li><a href="#six">Ajout/Suppression d'une page</a></li>
+						<li><a href="#sept" class="active">Ajout/Suppression d'un élément de la listes de choix</a></li>
+						<li><a href="#eight">Validation des entrées</a></li>
+						<li><a href="#ten">Utilisation des Gantts</a></li>
+						<li><a href="#onnze">Informations générals</a></li>
+						<li><a href="#douze">Informations de mise à jour de l'outil</a></li>
+					</ul>
+				</nav>
+				<!--
+				<footer>
+					<ul class="icons">
+						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</footer>
+				-->
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="container">
+									<header class="major">
+										<h2>Outil d'Ordonnancement</h2>
+										<p>Ce site est une documentation pour l'utilisation de <a href="http://html5up.net">l'outil d'ordonnancement</a>  
+										fait par Hani Massinissa pour Courchesne François.</p>
+									</header>
+									<p>Cet outil a pour but de faciliter l'ordonnancement des travaux POC et des projets. L'outil comporte un système de validation des entrées qui permet de s'assurer de la disponibilité des chefs et des équipements.
+										L'outil est presque entièrement dynamique et a été realisé en moins de deux semaines.De ce fait , il est pertinent de mentionner que le code a été écrit et commenté de sorte à faciliter l'ajout de fonctions et la correction de bugs.
+										En ce qui concerne ce site, il a pour but de montrer les fonctions principales de l'outil. 
+									</p>
+								</div>
+							</section>
+
+						<!-- Two --><!--  
+							<section id="two">
+								<div class="container">
+									<h3>Things I Can Do</h3>
+									<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet.</p>
+									<ul class="feature-icons">
+										<li class="fa-code">Write all the code</li>
+										<li class="fa-cubes">Stack small boxes</li>
+										<li class="fa-book">Read books and stuff</li>
+										<li class="fa-coffee">Drink much coffee</li>
+										<li class="fa-bolt">Lightning bolt</li>
+										<li class="fa-users">Shadow clone technique</li>
+									</ul>
+								</div>
+							</section>
+-->
+						<!-- Three -->
+							<section id="three">
+								<div class="container">
+									<h3>Modification/Suppression d'un élément</h3>
+									<p>Lorsqu'un projet ou un POC est déjà entré, il est possible de modifier les informations de ce dernier ou de complètement le supprimer</p>
+									<div class="features">
+										<article>
+										
+											<video   class="viide" controls>
+												<source src="reseau_electrique.mkv" type="video/mp4">
+												<source src="reseau_electrique.mkv" type="video/ogg">
+											  Your browser does not support the video tag.
+											  </video>
+											<div class="">
+												
+												<h4>Accéder au mandat</h4>
+												<p>Pour accéder au mandat il suffit de double-cliquer sur la date de début ou la date de fin de l'élément en question</p>
+												
+											</div>
+											
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Modification du mandat</h4>
+												<p>Il suffit simplement de changer les informations présentes et de valider les modifications</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Suppression du mandat</h4>
+												<p>Il suffit de valider que l'élément en cours de suppression est bien l'élément qu'on veut supprimer</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Utilisation des informations du mandat</h4>
+												<p>Il est possible de prendre les informations d'un mandat pour les modifiers et d'ajouter l'élément comme un nouveau mandat   </p>
+											</div>
+										</article>
+									</div>
+								</div>
+							</section>
+
+							<section id="five">
+								<div class="container">
+									<h3>Ajout/Suppression d'un élément</h3>
+									<p>Il est possible d'ajouter un projet ou un POC et de supprimer ces derniers</p>
+									<div class="features">
+										
+										<article>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Ajout d'un mandat</h4>
+												<p>Il suffit simplement remplir le formulaire et de valider l'ajout</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Suppression de plusieurs mandats</h4>
+												<p>il suffit de remplir le formulaire pour supprimer les éléments qui correspondent aux critères choisis et de valider la suppression</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Suppression d'un mandat</h4>
+												<p>Il faut mettre l'unique ID de l'élément à supprimer puis valider la suppression  </p>
+											</div>
+										</article>
+									</div>
+								</div>
+							</section>
+
+							<section id="six">
+								<div class="container">
+									<h3>Ajout/Suppression d'une page</h3>
+									<p>Il est possible d'ajouter et de supprimer une page qui montre seulement les mandats pour une description/un lieu spécifique</p>
+									<div class="features">
+										
+										<article>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Ajout d'une page</h4>
+												<p>Il suffit de choisir un nom de page et le critère qui permet de montrer seulement les éléments qui correspondent au critère </p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Suppression d'une page</h4>
+												<p>Il suffit de choisir la page à supprimer et de valider la suppression</p>
+											</div>
+										</article>
+										
+									</div>
+								</div>
+							</section>
+
+							<section id="sept">
+								<div class="container">
+									<h3>Ajout/Suppression d'un élément de la listes de choix</h3>
+									<p>Il est possible d'ajouter et de supprimer des éléments dans les listes de choix. Par exemple, il est possible d'ajouter un équipement dans les choix d'équipements. </p>
+									<div class="features">
+										
+										<article>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Ajout d'un élément</h4>
+												<p>Il faut écrire le nom de l'élément à ajouter dans la bonne section du formulaire et de valider l'ajout </p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Suppression d'un élément</h4>
+												<p>Il suffit de choisir l'élément à supprimer et de valider la suppression</p>
+											</div>
+										</article>
+										
+									</div>
+								</div>
+							</section>
+
+							<section id="eight">
+								<div class="container">
+									<h3>Validation des entrées</h3>
+									<p>Il est possible d'afficher uniquement les chefs et les équipments qui sont disponible dans un interval de temps.Avant l'ajout ou la suppression d'un élément si des chefs ou des équipements sont déja réservés l'outil va afficher les éléments dont il est question </p>
+									<div class="features">
+										
+										<article>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Affichage des éléments disponibles</h4>
+												<p>Il faut chocher le bouton en bas à gauche </p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Validation de la disponibilité des éléments</h4>
+												<p>Cette validation se fait d'elle même</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Validation du nombre de personne disponible</h4>
+												<p>Cet fonction permet de s'assurer qu'il ya assez de main d'oeuvre</p>
+											</div>
+										</article>
+										
+									</div>
+								</div>
+							</section>
+
+							<section id="ten">
+								<div class="container">
+									<h3>Utilisation des Gantts</h3>
+									<p>L'outil comporte deux Gantts pour voir les disponibilités des équipements et des chefs d'équipe.Certaines pages comporte un petit gantt.  </p>
+									<div class="features">
+										
+										<article>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Gantt des équipements et des chefs d'équipe</h4>
+												<p>L'outil comporte deux Gantts pour voir les disponibilités des équipements et des chefs d'équipe. Ces deux gantts affiche en rouge les périodes lorsque le chef d'équipe ou l'équipement et associé à deux mandats ou plus, pour une même période de temps. Il est necessaire de mettre à jour les pages manuellement </p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Gantt général</h4>
+												<p>Le gantt présent dans cette page permet d'avoir un visuel rapide de la duré du mandat en question et de sa position par raport aux autres mandats</p>
+											</div>
+										</article>
+									</div>
+								</div>
+							</section>
+							<section id="onnze">
+								<div class="container">
+									<h3>Informations générals</h3>
+									<p>Cette derniere section comporte quelques informations général qui termine la présentation des fonctions principales de l'outil</p>
+									<div class="features">
+										
+										<article>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Recherche de mandat correspondent à des critères</h4>
+												<p>Cette fonction permet de visualiser des mandats spécifiques qui correspondent aux critères choisis par l'utilisateur</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Changer le nombre de personne disponible méthode #1</h4>
+												<p>Permet de changer le nombre de personne dans le gantt avec stictement les chefs d'équipe et les équipements</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Changer le nombre de personne disponible méthode #2</h4>
+												<p>Permet de changer le nombre de personne dans le gantt avec stictement les chefs d'équipe et les équipements</p>
+											</div>
+										</article>
+									</div>
+								</div>
+							</section>
+							
+
+							<section id="douze">
+								<div class="container">
+									<h3>Informations sur les mise à jour de l'outil</h3>
+									<p>2021-01-30 : Creation du fichier d'origine : Hani Massinissa <br> 
+										2021-02-04 : Creation d'un calendrier dans le formulaire : Hani Massinissa & Jasmine </p>
+									
+									
+								</div>
+							</section>
+							
+						<!-- Four --><!-- Four
+							<section id="nine">
+								<div class="container">
+									<h3>Contact Me</h3>
+									<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.</p>
+									<form method="post" action="#">
+										<div class="row uniform">
+											<div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
+											<div class="6u 12u(xsmall)"><input type="email" name="email" id="email" placeholder="Email" /></div>
+										</div>
+										<div class="row uniform">
+											<div class="12u"><input type="text" name="subject" id="subject" placeholder="Subject" /></div>
+										</div>
+										<div class="row uniform">
+											<div class="12u"><textarea name="message" id="message" placeholder="Message" rows="6"></textarea></div>
+										</div>
+										<div class="row uniform">
+											<div class="12u">
+												<ul class="actions">
+													<li><input type="submit" class="special" value="Send Message" /></li>
+													<li><input type="reset" value="Reset Form" /></li>
+												</ul>
+											</div>
+										</div>
+									</form>
+								</div>
+							</section>
+
+							 -->
+						<!-- Five -->
+						<!--
+							<section id="five">
+								<div class="container">
+									<h3>Elements</h3>
+
+									<section>
+										<h4>Text</h4>
+										<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+										This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+										This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+										<hr />
+										<header>
+											<h4>Heading with a Subtitle</h4>
+											<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+										</header>
+										<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+										<header>
+											<h5>Heading with a Subtitle</h5>
+											<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+										</header>
+										<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+										<hr />
+										<h2>Heading Level 2</h2>
+										<h3>Heading Level 3</h3>
+										<h4>Heading Level 4</h4>
+										<h5>Heading Level 5</h5>
+										<h6>Heading Level 6</h6>
+										<hr />
+										<h5>Blockquote</h5>
+										<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+										<h5>Preformatted</h5>
+										<pre><code>i = 0;
+
+	while (!deck.isInOrder()) {
+	    print 'Iteration ' + i;
+	    deck.shuffle();
+	    i++;
+	}
+
+	print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+									</section>
+
+									<section>
+										<h4>Lists</h4>
+										<div class="row">
+											<div class="6u 12u(xsmall)">
+												<h5>Unordered</h5>
+												<ul>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Sagittis adipiscing lorem eleifend.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ul>
+												<h5>Alternate</h5>
+												<ul class="alt">
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Sagittis adipiscing lorem eleifend.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ul>
+											</div>
+											<div class="6u 12u(xsmall)">
+												<h5>Ordered</h5>
+												<ol>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Etiam vel felis at lorem sed viverra.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Etiam vel felis at lorem sed viverra.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ol>
+												<h5>Icons</h5>
+												<ul class="icons">
+													<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+													<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+													<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+													<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+													<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+													<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
+												</ul>
+											</div>
+										</div>
+										<h5>Actions</h5>
+										<ul class="actions">
+											<li><a href="#" class="button special">Default</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt">Default</a></li>
+										</ul>
+										<ul class="actions small">
+											<li><a href="#" class="button special small">Small</a></li>
+											<li><a href="#" class="button small">Small</a></li>
+											<li><a href="#" class="button alt small">Small</a></li>
+										</ul>
+										<div class="row">
+											<div class="3u 6u(medium) 12u$(xsmall)">
+												<ul class="actions vertical">
+													<li><a href="#" class="button special">Default</a></li>
+													<li><a href="#" class="button">Default</a></li>
+													<li><a href="#" class="button alt">Default</a></li>
+												</ul>
+											</div>
+											<div class="3u 6u$(medium) 12u$(xsmall)">
+												<ul class="actions vertical small">
+													<li><a href="#" class="button special small">Small</a></li>
+													<li><a href="#" class="button small">Small</a></li>
+													<li><a href="#" class="button alt small">Small</a></li>
+												</ul>
+											</div>
+											<div class="3u 6u(medium) 12u$(xsmall)">
+												<ul class="actions vertical">
+													<li><a href="#" class="button special fit">Default</a></li>
+													<li><a href="#" class="button fit">Default</a></li>
+													<li><a href="#" class="button alt fit">Default</a></li>
+												</ul>
+											</div>
+											<div class="3u 6u$(medium) 12u$(xsmall)">
+												<ul class="actions vertical small">
+													<li><a href="#" class="button special small fit">Small</a></li>
+													<li><a href="#" class="button small fit">Small</a></li>
+													<li><a href="#" class="button alt small fit">Small</a></li>
+												</ul>
+											</div>
+										</div>
+									</section>
+
+									<section>
+										<h4>Table</h4>
+										<h5>Default</h5>
+										<div class="table-wrapper">
+											<table>
+												<thead>
+													<tr>
+														<th>Name</th>
+														<th>Description</th>
+														<th>Price</th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td>Item One</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Two</td>
+														<td>Vis ac commodo adipiscing arcu aliquet.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Three</td>
+														<td> Morbi faucibus arcu accumsan lorem.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Four</td>
+														<td>Vitae integer tempus condimentum.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Five</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+												</tbody>
+												<tfoot>
+													<tr>
+														<td colspan="2"></td>
+														<td>100.00</td>
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+
+										<h5>Alternate</h5>
+										<div class="table-wrapper">
+											<table class="alt">
+												<thead>
+													<tr>
+														<th>Name</th>
+														<th>Description</th>
+														<th>Price</th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td>Item One</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Two</td>
+														<td>Vis ac commodo adipiscing arcu aliquet.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Three</td>
+														<td> Morbi faucibus arcu accumsan lorem.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Four</td>
+														<td>Vitae integer tempus condimentum.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Five</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+												</tbody>
+												<tfoot>
+													<tr>
+														<td colspan="2"></td>
+														<td>100.00</td>
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+									</section>
+
+									<section>
+										<h4>Buttons</h4>
+										<ul class="actions">
+											<li><a href="#" class="button special">Special</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt">Alternate</a></li>
+										</ul>
+										<ul class="actions">
+											<li><a href="#" class="button special big">Big</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt small">Small</a></li>
+										</ul>
+										<ul class="actions fit">
+											<li><a href="#" class="button special fit">Fit</a></li>
+											<li><a href="#" class="button fit">Fit</a></li>
+											<li><a href="#" class="button alt fit">Fit</a></li>
+										</ul>
+										<ul class="actions fit small">
+											<li><a href="#" class="button special fit small">Fit + Small</a></li>
+											<li><a href="#" class="button fit small">Fit + Small</a></li>
+											<li><a href="#" class="button alt fit small">Fit + Small</a></li>
+										</ul>
+										<ul class="actions">
+											<li><a href="#" class="button special icon fa-download">Icon</a></li>
+											<li><a href="#" class="button icon fa-download">Icon</a></li>
+											<li><a href="#" class="button alt icon fa-check">Icon</a></li>
+										</ul>
+										<ul class="actions">
+											<li><span class="button special disabled">Special</span></li>
+											<li><span class="button disabled">Default</span></li>
+											<li><span class="button alt disabled">Alternate</span></li>
+										</ul>
+									</section>
+
+									<section>
+										<h4>Form</h4>
+										<form method="post" action="#">
+											<div class="row uniform">
+												<div class="6u 12u(xsmall)">
+													<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+												</div>
+												<div class="6u 12u(xsmall)">
+													<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="12u">
+													<div class="select-wrapper">
+														<select name="demo-category" id="demo-category">
+															<option value="">- Category -</option>
+															<option value="1">Manufacturing</option>
+															<option value="1">Shipping</option>
+															<option value="1">Administration</option>
+															<option value="1">Human Resources</option>
+														</select>
+													</div>
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="4u 12u(medium)">
+													<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+													<label for="demo-priority-low">Low Priority</label>
+												</div>
+												<div class="4u 12u(medium)">
+													<input type="radio" id="demo-priority-normal" name="demo-priority">
+													<label for="demo-priority-normal">Normal Priority</label>
+												</div>
+												<div class="4u 12u(medium)">
+													<input type="radio" id="demo-priority-high" name="demo-priority">
+													<label for="demo-priority-high">High Priority</label>
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="6u 12u(medium)">
+													<input type="checkbox" id="demo-copy" name="demo-copy">
+													<label for="demo-copy">Email me a copy of this message</label>
+												</div>
+												<div class="6u 12u(medium)">
+													<input type="checkbox" id="demo-human" name="demo-human" checked>
+													<label for="demo-human">I am a human and not a robot</label>
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="12u">
+													<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="12u">
+													<ul class="actions">
+														<li><input type="submit" value="Send Message" /></li>
+														<li><input type="reset" value="Reset" class="alt" /></li>
+													</ul>
+												</div>
+											</div>
+										</form>
+									</section>
+
+									<section>
+										<h4>Image</h4>
+										<h5>Fit</h5>
+										<span class="image fit"><img src="images/banner.jpg" alt="" /></span>
+										<div class="box alt">
+											<div class="row 50% uniform">
+												<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+											</div>
+											<div class="row 50% uniform">
+												<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+											</div>
+											<div class="row 50% uniform">
+												<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+											</div>
+										</div>
+										<h5>Left &amp; Right</h5>
+										<p><span class="image left"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+										<p><span class="image right"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+									</section>
+
+								</div>
+							</section>
+						-->
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; Hydro_Stage_Hani_Massi. All rights reserved.</li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollzer.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
